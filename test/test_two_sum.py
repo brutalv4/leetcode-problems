@@ -21,7 +21,3 @@ class SolutionTest(unittest.TestCase):
         expected = [0, 1]
         actual = self.solution.twoSum([3, 3], 6)
         self.assertEqual(actual, expected)
-
-
-if __name__ == "__main__":
-    unittest.main()
