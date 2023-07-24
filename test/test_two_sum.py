@@ -3,7 +3,7 @@ import unittest
 from solutions import TwoSum
 
 
-class SolutionTest(unittest.TestCase):
+class TestTwoSum(unittest.TestCase):
     def setUp(self):
         self.solution = TwoSum()
 
