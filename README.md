@@ -1,2 +1,4 @@
 # Problems added as they solved
-##### 1. [Two Sum](https://leetcode.com/problems/two-sum/) (Easy): [Solution](solutions/two_sum.py) + [Test](test/test_two_sum.py) + [Explanation](https://leetcode.com/problems/two-sum/editorial/)
+##### [1. Two Sum](https://leetcode.com/problems/two-sum) (Easy): [Solution](solutions/two_sum.py) + [Test](test/test_two_sum.py) + [Explanation](https://leetcode.com/problems/two-sum/editorial/)
+##### [9. Palindrome Number](https://leetcode.com/problems/palindrome-number) (Easy): [Solution](solutions/palindrome_number.py) + [Test](test/test_palindrome_number.py) + [Explanation](https://leetcode.com/problems/palindrome-number/editorial/)
+##### [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) (Easy): [Solution](solutions/add_two_integers.py) + [Test](test/test_add_two_integers.py)
